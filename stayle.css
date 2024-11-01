@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: aliceblue;
+    font-family: Inter;
+}
+
+.header{
+    width: 1280px;
+    height: 300px;    
+    background-image: url(./img/slider2\ 1.png);
+}
+.nav{
+    width: 1280px;
+height: 60px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.nav ul{
+    display: flex;
+    gap: 40px;
+    left: 200px;
+}
+.r{
+    position: ;
+    right: 340px;
+}
+.inp{
+    width: 1280px;
+height: 60px;
+left: 400px;
+}
+.baton{
+    background: #76B900;
+    width: 109px;
+height: 55px;
+color: black;
+top: 60px;
+
+}
+.GamingandEntertainment h2{
+    color: #000000;
+}
+.card{
+    width: 290px;
+    height: 302px;
+    
+box-shadow: 0px 17px 27px -4px #00000040;
+background: #FFFFFF;
+
+
+}
+.e{
+    left: 500px ;
+}
+.t{
+    width: 290px;
+height: 163.37px;
+
+
+}
+.GamingandEntertainment{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.con{
+    display: flex;
+    gap: 40px;
+    top: 100px;
+    
+}
+.lebu{
+    display: flex;
+    top: 300px;
+    gap: 40px;
+    margin: 0 auto;
+}
+.q{
+    top: -90px;
+    left: 700px;
+}
+.lebu2{
+    color: #000000;
+    display: flex;
+
+    
+}
+.lebu2 h2{
+    color: #000000;
+}
+.pc{
+    width: 1280px;
+height: 351px;
+}
+.pca{
+    width: 704px;
+height: 300px;
+
+
+}
+.pc p{
+    color: #000000;
+}
+.button{
+    width: 233px;
+height: 62px;
+background: #76B900;
+
+
+}
+.sex-bomba{
+    width: 1276px;
+    height: 211px;
+    display: flex;
+}
+.tasho{
+    margin-left: 1000px;
+}
